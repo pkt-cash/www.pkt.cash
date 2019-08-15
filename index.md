@@ -31,4 +31,4 @@ Pools:
 ## Resources
 
 * Matrix: [#pkt:matrix.org](https://riot.im/app/#/room/#pkt:m.trnsz.com)
-* IRC: [#pkt@freenode.net](https://kiwiirc.com/client/irc.freenode.net/?nick=yaypkt%7C%3F%23pkt)
+* IRC: [#pkt@freenode.net](https://kiwiirc.com/nextclient/irc.freenode.net/pkt?nick=pktwow)
