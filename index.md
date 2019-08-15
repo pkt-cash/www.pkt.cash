@@ -13,10 +13,10 @@ Not a whole lot at the moment, there's a [text based wallet](https://github.com/
 Yeah, so there's like 2 options, either you can mine in a pool, or you can setup your own pool and mine in a pool. PacketCrypt algorithm is such that in order to be effective at mining, you need to (gasp) collaborate with other miners. So you can either run a whole bunch of your own miners which collaborate in your own pool, or you can join an existing pool.
 
 Mining software:
-1. https://github.com/cjdelisle/PacketCrypt
+1. [https://github.com/cjdelisle/PacketCrypt](https://github.com/cjdelisle/PacketCrypt)
 
 Pools:
-1. https://gridfinity.com/
+1. [https://gridfinity.com/](https://gridfinity.com/)
 
 
 ## FAQ
@@ -31,4 +31,4 @@ Pools:
 ## Resources
 
 * Matrix: [#pkt:matrix.org](https://riot.im/app/#/room/#pkt:m.trnsz.com)
-* IRC: [#pkt@freenode.net](https://kiwiirc.com/client/irc.freenode.net/?nick=suchchatter|?#pkt)
+* IRC: [#pkt@freenode.net](https://kiwiirc.com/client/irc.freenode.net/?nick=yaypkt%7C%3F%23pkt)
