@@ -9,15 +9,18 @@ The network steward is an address which gets 20% of every new block-mine so that
 ## What can you do with it?
 Not a whole lot at the moment, there's a [text based wallet](https://github.com/cjdelisle/pkt-wallet) but in order to use it, you need to run a [full node](https://github.com/cjdelisle/pktd).
 
+If you're ready to try out the text-based wallet, check out [setting up a wallet](https://pkt.cash/wallet)
+
 ## So you wanna mine
-Yeah, so there's like 2 options, either you can mine in a pool, or you can setup your own pool and mine in a pool. PacketCrypt algorithm is such that in order to be effective at mining, you need to (gasp) collaborate with other miners. So you can either run a whole bunch of your own miners which collaborate in your own pool, or you can join an existing pool.
+The PKT chain uses the [PacketCrypt](https://github.com/cjdelisle/PacketCrypt) work algorith.
+PacketCrypt has 2 distinct stages, first an *announcement* stage wherein a miner creates a small
+(1KB) message which proves that they did some work, the second stage is the ordinary block mining
+stage where a block miner gets a discount on the work they need to do if they can prove that they
+have lots of announcements in memory at the time of mining. Importantly, announcements can contain
+*content* which, due to it's value to block miners, will be spread far and wide creating a 
+decentralized broadcast medium for small messages.
 
-Mining software:
-1. [https://github.com/cjdelisle/PacketCrypt](https://github.com/cjdelisle/PacketCrypt)
-
-Pools:
-1. [https://gridfinity.com/](https://gridfinity.com/)
-
+To learn more about mining and get started, check out [mining](https://pkt.cash/mining)
 
 ## FAQ
 
@@ -32,3 +35,6 @@ Pools:
 
 * Matrix: [#pkt:matrix.org](https://riot.im/app/#/room/#pkt:m.trnsz.com)
 * IRC: [#pkt@freenode.net](https://kiwiirc.com/nextclient/irc.freenode.net/pkt?nick=pktwow)
+* [Suggest an edit to this page](https://github.com/pkt-cash/www.pkt.cash/edit/master/index.md)
+* [Wallet setup](https://pkt.cash/wallet_setup)
+* [How to mine](https://pkt.cash/how_to_mine)
