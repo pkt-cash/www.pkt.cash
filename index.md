@@ -9,7 +9,7 @@ The network steward is an address which gets 20% of every new block-mine so that
 ## What can you do with it?
 Not a whole lot at the moment, there's a [text based wallet](https://github.com/cjdelisle/pkt-wallet) but in order to use it, you need to run a [full node](https://github.com/cjdelisle/pktd).
 
-If you're ready to try out the text-based wallet, check out [setting up a wallet](https://pkt.cash/wallet)
+If you're ready to try out the text-based wallet, check out [wallet setup](https://pkt.cash/wallet_setup).
 
 ## So you wanna mine
 The PKT chain uses the [PacketCrypt](https://github.com/cjdelisle/PacketCrypt) work algorith.
@@ -20,7 +20,7 @@ have lots of announcements in memory at the time of mining. Importantly, announc
 *content* which, due to it's value to block miners, will be spread far and wide creating a 
 decentralized broadcast medium for small messages.
 
-To learn more about mining and get started, check out [mining](https://pkt.cash/mining)
+To learn more about mining and get started, check out [how to mine](https://pkt.cash/how_to_mine)
 
 ## FAQ
 

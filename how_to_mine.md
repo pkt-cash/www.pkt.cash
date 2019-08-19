@@ -1,7 +1,7 @@
 # How to mine
 
 In order to begin mining, you'll probably want to have your
-[wallet](https://pkt.cash/wallet) setup. Once you have a wallet and an address
+[wallet setup](https://pkt.cash/wallet_setup). Once you have a wallet and an address
 configured, you will need to setup PacketCrypt for mining.
 
 ## How PKT mining works
