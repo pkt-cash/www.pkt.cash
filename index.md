@@ -6,6 +6,8 @@ PKT is a fork of bitcoin with it's own genesis block, it's designed for mesh net
 ## What is a network steward?
 The network steward is an address which gets 20% of every new block-mine so that the developers can <s>have lamborghinis</s> finance the building of mesh network technology. Unlike a premine or founder's fee, the recipient of the network steward payout can be changed by a PoS vote.
 
+[Learn more about the network steward.](/steward)
+
 ## What can you do with it?
 Not a whole lot at the moment, there's a [text based wallet](https://github.com/cjdelisle/pkt-wallet) but in order to use it, you need to run a [full node](https://github.com/cjdelisle/pktd).
 
