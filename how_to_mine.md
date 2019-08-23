@@ -15,7 +15,7 @@ thought to be *bandwidth hard*.
 PKT mining consists of two distinct stages, the first stage is known as
 *announcement mining*. Announcements are small 1KB proofs of some work having been
 done. Any miner who can then prove that they had the announcement in memory at the
-time they were mining is elligable for a discount on the amount of work which they
+time they were mining is eligible for a discount on the amount of work which they
 need to do to mine a block. Importantly, an announcement miner can optionally
 attach some additional *content* to an announcement which, due to it's value to
 block miners, is sure to be spread far and wide.

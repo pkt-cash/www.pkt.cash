@@ -1,7 +1,7 @@
 # PKT.cash
 <small>*so cash*</small>
 
-PKT is a fork of bitcoin with it's own genesis block, it's designed for mesh networking. It uses [PacketCrypt](https://github.com/cjdelisle/PacketCrypt) proof of work which requires internet bandwidth in order to mine and it has a *network steward* address which receives 20% of every coinbase.
+PKT is a fork of bitcoin with it's own genesis block. It uses [PacketCrypt](https://github.com/cjdelisle/PacketCrypt) proof of work which requires internet bandwidth in order to mine and it has a *network steward* address which receives 20% of every coinbase.
 
 ## What is a network steward?
 The network steward is an address which gets 20% of every new block-mine so that the developers can <s>have lamborghinis</s> finance the building of mesh network technology. Unlike a premine or founder's fee, the recipient of the network steward payout can be changed by a PoS vote.
@@ -14,7 +14,7 @@ Not a whole lot at the moment, there's a [text based wallet](https://github.com/
 If you're ready to try out the text-based wallet, check out [wallet setup](https://pkt.cash/wallet_setup).
 
 ## So you wanna mine
-The PKT chain uses the [PacketCrypt](https://github.com/cjdelisle/PacketCrypt) work algorith.
+The PKT chain uses the [PacketCrypt](https://github.com/cjdelisle/PacketCrypt) work algorithm.
 PacketCrypt has 2 distinct stages, first an *announcement* stage wherein a miner creates a small
 (1KB) message which proves that they did some work, the second stage is the ordinary block mining
 stage where a block miner gets a discount on the work they need to do if they can prove that they
