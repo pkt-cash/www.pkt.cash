@@ -54,8 +54,8 @@ have rough consensus, you move that conversation to a formal proposal.
 To make a proposal, you must create a pull request to
 [the ns-projects repository](https://github.com/pkt-cash/ns-projects) which
 adds a new project markdown file as per the
-[project template](https://github.com/pkt-cash/ns-projects/template.md) and
-name it according to the naming convention defined in the repository readme.
+[project template](https://github.com/pkt-cash/ns-projects/blob/master/projects/template.md)
+and name it according to the naming convention defined in the repository readme.
 
 Periodically The Network Steward will hold a meeting and decide on which
 proposals should be funded. The minutes of these meetings are published in

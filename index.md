@@ -9,7 +9,7 @@ The network steward is an address which gets 20% of every new block-mine so that
 [Learn more about the network steward.](/steward)
 
 ## What can you do with it?
-Not a whole lot at the moment, there's a [text based wallet](https://github.com/cjdelisle/pkt-wallet) but in order to use it, you need to run a [full node](https://github.com/cjdelisle/pktd).
+Not a whole lot at the moment, there's a [text based wallet](https://github.com/pkt-cash/pkt-wallet) but in order to use it, you need to run a [full node](https://github.com/pkt-cash/pktd).
 
 If you're ready to try out the text-based wallet, check out [wallet setup](https://pkt.cash/wallet_setup).
 
@@ -19,7 +19,7 @@ PacketCrypt has 2 distinct stages, first an *announcement* stage wherein a miner
 (1KB) message which proves that they did some work, the second stage is the ordinary block mining
 stage where a block miner gets a discount on the work they need to do if they can prove that they
 have lots of announcements in memory at the time of mining. Importantly, announcements can contain
-*content* which, due to it's value to block miners, will be spread far and wide creating a 
+*content* which, due to it's value to block miners, will be spread far and wide creating a
 decentralized broadcast medium for small messages.
 
 To learn more about mining and get started, check out [how to mine](https://pkt.cash/how_to_mine)
