@@ -9,7 +9,7 @@ The network steward is an address which gets 20% of every new block-mine so that
 [Learn more about the network steward.](/steward)
 
 ## What can you do with it?
-Not a whole lot at the moment, there's a [text based wallet](https://github.com/pkt-cash/pkt-wallet) but in order to use it, you need to run a [full node](https://github.com/pkt-cash/pktd).
+Not a whole lot at the moment, there's a [text based wallet](https://github.com/pkt-cash/pktwallet) but in order to use it, you need to run a [full node](https://github.com/pkt-cash/pktd).
 
 If you're ready to try out the text-based wallet, check out [wallet setup](https://pkt.cash/wallet_setup).
 
