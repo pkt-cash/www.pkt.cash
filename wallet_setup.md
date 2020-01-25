@@ -17,9 +17,9 @@ Once you have golang fully installed and set up, you can use the following
 commands to install pktd, pktwallet and btcctl.
 
 ```
-go get -u github.com/pkt-cash/pktd
-go get -u github.com/pkt-cash/pktwallet
-go get -u github.com/pkt-cash/pktd/cmd/btcctl
+go get github.com/pkt-cash/pktd
+go get github.com/pkt-cash/pktd/pktwallet
+go get github.com/pkt-cash/pktd/cmd/btcctl
 ```
 
 ## Launch pktd
