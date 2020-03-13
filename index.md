@@ -35,6 +35,7 @@ To learn more about mining and get started, check out [how to mine](https://pkt.
 
 ## Resources
 
+* Telegram: [pktproject](https://t.me/pktproject)
 * Matrix: [#pkt:matrix.org](https://riot.im/app/#/room/#pkt:m.trnsz.com)
 * IRC: [#pkt@freenode.net](https://kiwiirc.com/nextclient/irc.freenode.net/pkt?nick=pktwow)
 * [Suggest an edit to this page](https://github.com/pkt-cash/www.pkt.cash/edit/master/index.md)
