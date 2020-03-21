@@ -30,7 +30,7 @@ want `sudo apt install git` and for OSX with homebrew, you'll want `brew install
 ## Install the components
 
 Once you have golang and git fully installed and set up, you can use the following
-commands to install pktd, pktwallet and btcctl.
+commands to install pktd, wallet and btcctl.
 
 ```
 git clone github.com/pkt-cash/pktd
@@ -61,7 +61,7 @@ check the status of your node.
 
 Check the [Block Explorer](https://newalpha-pkt-explorer.cjdns.fr/) to see the most recent block.
 
-## Setup pktwallet
+## Setup the wallet
 
 First you'll need to create a wallet
 
@@ -72,7 +72,7 @@ First you'll need to create a wallet
 Then once it is created, launch it
 
 ```
-./pktwallet
+./wallet
 ```
 
 Now in another window, you can interact with the wallet.
