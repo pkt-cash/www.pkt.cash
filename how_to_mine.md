@@ -130,6 +130,7 @@ node ./blkmine.js --threads 2 --paymentAddr=pDSxcZunaUSUSxHrL6r8zpGJvoEropJ3Es h
 
 ## Resources
 
+* Telegram: https://t.me/pktproject
 * Matrix: [#pkt:matrix.org](https://riot.im/app/#/room/#pkt:m.trnsz.com)
 * IRC: [#pkt@freenode.net](https://kiwiirc.com/nextclient/irc.freenode.net/pkt?nick=pktwow)
 * [Suggest an edit to this page](https://github.com/pkt-cash/www.pkt.cash/edit/master/how_to_mine.md)
