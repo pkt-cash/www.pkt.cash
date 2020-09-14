@@ -111,7 +111,7 @@ For an exhaustive list of all the RPC calls you can make, use:
 ## Resources
 
 * Telegram: https://t.me/pktproject
-* Matrix: [#pkt:matrix.org](https://riot.im/app/#/room/#pkt:m.trnsz.com)
+* Matrix: [#pkt:matrix.org](https://riot.im/app/#/room/#pkt:matrix.org)
 * IRC: [#pkt@freenode.net](https://kiwiirc.com/nextclient/irc.freenode.net/pkt?nick=pktwow)
 * [Suggest an edit to this page](https://github.com/pkt-cash/www.pkt.cash/edit/master/wallet_setup.md)
 * [Main](https://pkt.cash/)
