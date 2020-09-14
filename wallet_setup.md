@@ -43,7 +43,7 @@ cd pktd
 Now, you can launch pktd:
 
 ```
-./pktd
+bin/pktd
 ```
 
 This should show some output such as the following:
@@ -56,7 +56,7 @@ This tells you that it's properly syncing the chain. In another window, you can
 check the status of your node.
 
 ```
-./btcctl getinfo
+bin/pktctl getinfo
 ```
 
 Check the [Block Explorer](https://newalpha-pkt-explorer.cjdns.fr/) to see the most recent block.
@@ -66,26 +66,26 @@ Check the [Block Explorer](https://newalpha-pkt-explorer.cjdns.fr/) to see the m
 First you'll need to create a wallet
 
 ```
-./wallet --create
+bin/pktwallet --create
 ```
 
 Then once it is created, launch it
 
 ```
-./wallet
+bin/pktwallet
 ```
 
 Now in another window, you can interact with the wallet.
 First you might want to create for yourself an address:
 
 ```
-./btcctl --wallet getnewaddress
+bin/pktctl --wallet getnewaddress
 ```
 
 Or get your current balance:
 
 ```
-./btcctl --wallet getbalance
+bin/pktctl --wallet getbalance
 ```
 
 To send PKT to somebody, you need to first unlock your wallet.
@@ -93,19 +93,19 @@ In this example, we're keeping the wallet unlocked for only 60 seconds,
 you can change the number at the end to your liking.
 
 ```
-./btcctl --wallet walletpassphrase <password you used when creating wallet> 60
+bin/pktctl --wallet walletpassphrase <password you used when creating wallet> 60
 ```
 
 Then send cjd a 10 pkt tip.
 
 ```
-./btcctl --wallet sendtoaddress pP6Vh6GiL4HsMfcPby5xHQTyBUApd7mewg 10
+bin/pktctl --wallet sendtoaddress pP6Vh6GiL4HsMfcPby5xHQTyBUApd7mewg 10
 ```
 
 For an exhaustive list of all the RPC calls you can make, use:
 
 ```
-./btcctl -l
+bin/pktctl -l
 ```
 
 ## Resources
